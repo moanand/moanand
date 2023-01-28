@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mohit Anand and i have 6+ experience working on different technology like Core Java, Hibernate, JDBC, Servlet, Spring Framework, Spring boot, Spring Data JPA,
+- 👋 Hi, I’m Mohit Anand and i have 8+ experience working on different technology like Core Java, Hibernate, JDBC, Servlet, Spring Framework, Spring boot, Spring Data JPA,
 MySQL, SQL and Microservices Architecture services.
 - 👀 I’m interested in New Technology along with its legacy.
 - 🌱 I’m currently learning DevOps and AWS.
